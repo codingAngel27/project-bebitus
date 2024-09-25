@@ -1,0 +1,470 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <link rel="stylesheet" href="css/estilos.css">
+  <link rel="stylesheet" href="css/formulario.css">
+  <link rel="stylesheet" href="css/prendas.css">
+  <link rel="stylesheet" href="css/estilosPrendas.css">
+  <link rel="icon" href="img/logoB.png" type="png">
+  <title>Bebitus</title>
+</head>
+
+<body>
+  <a href="https://api.whatsapp.com/send?phone=992403813" class="btn-wsp" target="_blank">
+    <i class="fab fa-whatsapp"></i></a>
+
+  <main class="container">
+    <marquee width="100%" height="auto" behavior="alternate" direction="" bgcolor="#Be9485">
+      <h3>Envío <b> gratis</b>
+        por compras mayores a S/. 300.00 (Promocion exclusiva en Web)</h3>
+    </marquee>
+    <div class="container-logo">
+      <a href="#"><img src="img/bebitusLogo.png" alt="" width="230px" height="auto"></a>
+    </div>
+    <div id="header-content">
+      <header class="header-container">
+        <div class="header">
+          <button class="button" id="menu-toggle">
+            <svg for="menu-toggle" class="svg" xmlns="http://www.w3.org/2000/svg" width="16" height="16"
+              fill="currentColor" viewBox="0 0 16 16">
+              <path fill-rule="evenodd"
+                d="M2.5 12a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5z" />
+            </svg>
+          </button>
+
+          <nav class="nav">
+            <ul class="ul" id="link">
+              <li class="li"><a href="#" class="a" onclick="toggleMenu()">Inicio</a></li>
+              <li class="li"><a href="#nosotros" class="a" onclick="toggleMenu()">Nosotros</a></li>
+              <li class="li"><a href="#categorias" class="a" onclick="toggleM|enu()">Categorias</a>
+                <ul class="submenu">
+                  <li><a  href="#prendas" id="cateBeba"><i class="fa-solid fa-greater-than"></i> Bebé Niña</a></li>
+                  <li><a href="#prendas"  id="cateBebo"><i class="fa-solid fa-greater-than"></i> Bebé Niño</a></li>
+                  <li><a href="#prendas" id="cateNina"><i class="fa-solid fa-greater-than"></i> Niñas</a></li>
+                  <li><a href="#prendas"  id="cateNino"><i class="fa-solid fa-greater-than"></i> Niños</a></li>
+                </ul>
+              </li>
+              <li class="li"><a href="#tendencia" class="a" onclick="toggleMenu()">tendencias</a></li>
+              <li class="li"><a href="#contactos" class="a" onclick="toggleMenu()">Contactos</a></li>
+            </ul>
+          </nav>
+        </div>
+        <div class="buscar1" onclick="toggleMenu()">
+          <input id="buscar" type="text" placeholder="Buscar" required />
+          <button   id="btn1" class="btn1">
+            <a href="#prendas"><i class="fas fa-search icon"></i></a>
+              
+          </button>
+        </div>
+        <div class="login">
+          <div class="iniciar">
+            <a href="#" id="icono"><i class="fa-solid fa-user"></i></a>
+            <div id="modal" class="modal">
+              <div class="modal-contenido">
+                <span class="cerrar">&times;</span>
+                <!-- Aquí puedes agregar los campos de inicio de sesión o registro -->
+                <div class="header-login">
+                  <ul>
+                    <li id="acceder" class="activo"><a href="#">Acceder</a></li>
+                    <li id="registro"><a href="#">Registro</a></li>
+                  </ul>
+                </div>
+                <div id="formulario-acceder" class="">
+                  <form action="" method="post">
+                    <div class="form">
+                      <div class="grupo">
+                        <input type="email" name="" id="" required><span class="barra"></span>
+                        <label for="">Email</label>
+                      </div>
+                      <div class="grupo">
+                        <input type="password" name="" id="" required autofocus> <span class="barra"></span>
+                        <label for="">Contraseña</label>
+                      </div>
+                      <button type="submit">Iniciar sesión</button>
+                    </div>
+                  </form>
+                  <a href="#">¿Has olvidado la contraseña?</a>
+                </div>
+                <div id="formulario-registro" class="">
+                  <form action="" method="post" id="formulario-re">
+                    <div class="form">
+                      <div class="grupo">
+                        <input type="text" name="" id="" required><span class="barra"></span>
+                        <label for="">Nombre</label>
+                      </div>
+                      <div class="grupo">
+                        <input class="" type="email" name="" id="" required><span class="barra"></span>
+                        <label class="" for="">Email</label>
+                      </div>
+                      <div class="grupo">
+                        <input type="number" name="" id="" required><span class="barra"></span>
+                        <label for="">Edad</label>
+                      </div>
+                      <div class="grupo">
+                        <input type="password" name="" id="" required> <span class="barra"></span>
+                        <label for="">Contraseña</label>
+                      </div>
+                      <div class="terminos">
+                        <div class="checkbox-cont">
+                          <input type="checkbox" id="" name="" required>
+                        </div>
+                        <div class="acept">
+                          <a href="">Acepto los términos y condiciones.</a>
+                        </div>
+                      </div>
+                      <button type="submit" form="formulario-re">Registrarse</button>
+
+                    </div>
+                  </form>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+          <!------------------------------------------------------------------------------------------>
+          <div class="carrito">
+            <a  id="carrito2"><i class="fas fa-shopping-cart" data-bs-toggle="modal"
+                data-bs-target="#exampleModal"></i></a>
+          </div>
+        </div>
+
+      </header>
+    </div>
+    <!--SECCION CARRUSEL I N I C I O-->
+    <section class="carrusel">
+      <div class="container-imagen">
+        <button class="carrusel-btn carrusel-btn-izq" onclick="cambiarImagen(-1)">&#8249;</button>
+        <!--<div class="sale">
+            <h2>¡Venta especial!</h2>
+            <p>¡Descuentos increíbles!</p>
+          </div>-->
+        <img id="img" src="img/fondo1.jpg" alt="" width="1500px" height="100%" class="slider">
+        <button class="carrusel-btn carrusel-btn-der" onclick="cambiarImagen(1)">&#8250;</button>
+      </div>
+    </section>
+  </main>
+  <section id="nosotros">
+    <div class="contenedor-foto">
+      <img class="imagen1" src="img/trabajo_en_equipo.jpg" alt="imagen1">
+      <img class="imagen2" src="img/trabajo-equipo.jpg" alt="imagen2">
+    </div>
+    <div class="nosotros">
+      <p class="titulo-seccion">SOBRE NOSOTROS</p>
+      <h2>Hola, Somos<span>BEBITUS</span></h2>
+      <h3>venta de ropa de bebé y niños</h3>
+      <p>Bebitus es una empresa fundada en 2020 dedicada a la venta de ropa de bebé y niños. Nos enorgullece ofrecer una
+        amplia selección de productos de alta calidad y estilo, cuidadosamente seleccionados para garantizar la
+        comodidad y la moda infantil. Nuestra misión es brindar a los clientes una experiencia excepcional, con un
+        compromiso inquebrantable con la satisfacción del cliente. Valoramos la seguridad de los niños y nos esforzamos
+        por ofrecer productos que cumplan con los más altos estándares. En Bebitus, también nos preocupamos por la
+        responsabilidad social, utilizando materiales sostenibles y apoyando a organizaciones benéficas infantiles.
+        Estamos comprometidos en brindar un servicio personalizado y asesoramiento en tallas para asegurar una
+        experiencia de compra placentera.</p>
+      <a href="#">SABER MAS</a>
+    </div>
+  </section>
+  <!----------------------------------------------------------------------->
+ 
+  <!----------------------------------------------------------------------------------------------------->
+  <!--SECCION P R E N D A S -->
+  <section id="prendas">
+    <h1>Prendas Kids</h1>
+    <div class="container">
+      <div id="productos-grid" class="row">
+
+      </div>
+      <nav aria-label="Page navigation example">
+        <ul id="paginador" class="pagination pagination-sm justify-content-center">
+
+        </ul>
+      </nav>
+      <nav aria-label="Page navigation example">
+        <ul class="pagination">
+
+        </ul>
+      </nav>
+    </div>
+  </section>
+
+
+
+  <!-- Modal ---------------------------------->
+  <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-scrollable">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h1 class="modal-title fs-5" id="exampleModalLabel">CARRITO</h1>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+
+          <section>
+            <div id="cart-compras">
+           
+            </div>
+            <section id="pago">
+              <div id="montoCompra">
+                <ul>
+                  <li>
+                    Subtotal
+                    <h5 id="montoSinIgv"></h5>
+                  </li>
+                  <li>IGV
+                    <h5 id="montoIgv"></h5>
+                  </li>
+                </ul>
+              </div>
+              <hr style="width:100%;">
+              <div id="montoPago">
+                Total
+                <h5 id="montoTotal"></h5>
+              </div>
+            </section>
+          </section>
+        </div>
+        <div class="modal-footer">
+         
+          <button type="button" class="btn btn-primary botonPagar">COMPRAR</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-------------------------------------------------------------------------------------------------------------------------->
+  <!-- Modal -->
+  <div class="modal fade" id="mensajeProducto" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+       
+        <div class="modal-body text-center">
+        Producto Agregado 
+        </div>
+        <button type="button" class="btn btn-primary" data-bs-dismiss="modal">OK</button>
+       
+      </div>
+    </div>
+  </div>
+  <!------------------------------------------>
+  <section id="tendencia" class="tendencia">
+    <h2>NUEVAS TENDENCIAS</h2>
+    <div id="tendencias" class="productos">
+      <img src="img/niña1.jpg" alt="">
+      <img src="img/niño1.jpg" alt="">
+      <img src="img/bebe1.jpg" alt="">
+      <img src="img/niña2.jpg" alt="">
+    </div>
+  </section>
+  <section id="marcas" class="slider1">
+    <h2>SUPER OFERTAS ¡SOLO POR HOY!</h2>
+    <div class="slide-track">    
+      <div class="slide1">
+        <img src="img/sale1.jpg" alt="">
+      </div>
+      <div class="slide1">
+        <img src="img/sale2.jpg" alt="">
+      </div>
+      <div class="slide1">
+        <img src="img/sale3.jpg" alt="">
+      </div>
+      <div class="slide1">
+        <img src="img/sale4.jpg" alt="">
+      </div>
+      <div class="slide1">
+        <img src="img/sale5.jpg" alt="">
+      </div>
+      <div class="slide1">
+        <img src="img/sale6.jpg" alt="">
+      </div>
+      <div class="slide1">
+        <img src="img/sale1.jpg" alt="">
+      </div>
+      <div class="slide1">
+        <img src="img/sale2.jpg" alt="">
+      </div>
+      <div class="slide1">
+        <img src="img/sale3.jpg" alt="">
+      </div>
+      <div class="slide1">
+        <img src="img/sale4.jpg" alt="">
+      </div>
+      <div class="slide1">
+        <img src="img/sale5.jpg" alt="">
+      </div>
+      <div class="slide1">
+        <img src="img/sale6.jpg" alt="">
+      </div>
+
+    </div>
+    
+  </section>
+  <!--SECCION C O N T A C T O S-->
+  <section id="contactos">
+    <div class="form-container">
+      <form action="" id="formulario-contacto" class="formulario">
+        <h2>NOS ENCANTARÍA ESCUCHARTE</h2>
+        <div class="form-group" id="grupo-nombre">
+          <label class="label" for="name">Nombre*</label>
+          <input type="text" id="name" name="name" placeholder="Ingrese su nombre" required>
+          <i class="validacion-estado fas fa-times-circle"></i>
+          <p class="input-error">Complete este campo</p>
+        </div>
+        <div class="form-group active" id="grupo-correo">
+          <label for="email">Email*</label>
+          <input type="email" id="correo" name="email" placeholder="bebitus@correo.com" required>
+          <i class="validacion-estado fas fa-times-circle"></i>
+          <p class="input-error">El correo solo debe contener letras, números, puntos, guiones y guion bajo</p>
+        </div>
+        <div class="form-group" id="grupo-telefono">
+          <label for="telefono">Teléfono*</label>
+          <input type="tel" id="telefono" name="telefono" title="Ingrese solo números" placeholder="Número de Teléfono"
+            required>
+          <i class="validacion-estado fas fa-times-circle"></i>
+          <p class="input-error">Complete este campo</p>
+        </div>
+        <div class="form-group" id="grupo-distrito">
+          <label for="inputCity" class="form-label">Distrito</label>
+          <input type="text" class="form-control" id="inputCity" required>
+          <i class="validacion-estado fas fa-times-circle"></i>
+          <p class="input-error">Complete este campo</p>
+        </div>
+        <div class="form-group" id="grupo-seleccion">
+          <label for="inputState" class="form-label">Departamento</label>
+          <select id="inputState" class="form-select" required>
+            <option value="" selected disabled>Seleccionar</option>
+            <option value="Lima">Lima</option>
+            <option value="Huanuco">Huanuco</option>
+            <option value="Arequipa">Arequipa</option>
+            <option value="Cusco">Cusco</option>
+          </select>
+          <!--<i class="validacion-estado fas fa-times-circle"></i>-->
+          <p class="input-error">Seleccione un Departamento</p>
+        </div>
+        <div class="form-group" id="grupo-tema">
+          <label for="tema">Tema:</label>
+          <input type="text" class="form-tema" id="tema" required>
+          <i class="validacion-estado fas fa-times-circle"></i>
+          <p class="input-error">Complete este campo</p>
+        </div>
+        <div class="form-group" id="grupo-mensaje">
+          <label for="message">Mensaje*</label>
+          <textarea class="textarea" id="message" name="message" placeholder="Escriba su mensaje" required></textarea>
+          <i class="validacion-estado fas fa-times-circle"></i>
+          <p class="input-error">Complete este campo</p>
+        </div>
+        <div class="terms" id="grupo-terminos">
+          <div class="checkbox-container">
+            <input type="checkbox" id="terms" name="terms" required>
+          </div>
+          <div class="acepto">
+            <a href="">Acepto los términos y condiciones.</a>
+          </div>
+        </div>
+        <div class="formulario-mensaje " id="formulario-mensaje">
+          <p><i class="warning fas fa-exclamation-triangle"></i><b>Error:</b> Por favor, rellene el formulario</p>
+        </div>
+        <div class="form-group form_enviar" id="grupo-aceptar">
+          <button type="submit" class="formulario-btn">Aceptar</button>
+          <p class="mensaje-exitoso" id="mensaje-exitoso">¡Formulario enviado exitosamente!</p>
+        </div>
+      </form>
+
+    </div>
+    <div class="tienda">
+      <h2>TIENDA PRINCIPAL</h2>
+      <iframe
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d623.3262634908466!2d-77.0372246115709!3d-12.10313785330053!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9105c841652839b3%3A0x12a5ee80604e676f!2sAv.%20Los%20Conquistadores%20710%2C%20San%20Isidro%2015073!5e0!3m2!1ses!2spe!4v1686518470197!5m2!1ses!2spe"
+        width="600" height="500" style="border:0;" allowfullscreen="" loading="lazy"
+        referrerpolicy="no-referrer-when-downgrade"></iframe>
+      <p>Av. Conquistadores 710 - San Isidro, Lima <br>
+        Av. Isabel la Católica N° 1610 - La Victoria, Lima <br>
+        Pasaje Gamarra N° 173 (Alt cdra 9 Jr Gamarra) La Victoria, Lima <br>
+        Jr. Gamarra N° 1275 - Tienda 223 - Pasaje 17 - C.C. GAMMA 1er Piso La Victoria, Lima </p>
+      <div class="encuesta">
+        <h3 class="subtitulo">ENCUESTA DE SATISFACCION</h3>
+        <p>Califique usted nuestros servicio de atención</p>
+        <form action="" class="form-encuesta" id="form-encuesta">
+          <div class="calificar" id="calificar">
+            <div class="radio1">
+              <input type="radio" id="muybueno" name="opcion" value="Muy Bueno" />
+              <h3>Muy Bueno</h3>
+            </div>
+            <div class="radio1">
+              <input type="radio" id="bueno" name="opcion" value="Bueno" />
+              <h3>Bueno</h3>
+            </div>
+            <div class="radio1">
+              <input type="radio" id="regular" name="opcion" value="Regular" />
+              <h3>Regular</h3>
+            </div>
+            <div class="radio1">
+              <input type="radio" id="malo" name="opcion" value="Malo" />
+              <h3>malo</h3>
+            </div>
+          </div>
+          <button type="submit" class="btn-encuesta" id="btn-encuesta">Enviar</button>
+        </form>
+      </div>
+    </div>
+  </section>
+  
+  <footer>
+    <div class="pie">
+      <div class="container1">
+        <h4>politicas de uso</h4>
+        <nav class="nav1">
+          <ul>
+            <li><a href="">Terminos y condiciones</a></li>
+            <li><a href="">Despachos</a></li>
+            <li><a href="">Servicio al cliente</a></li>
+            <li><a href="">Libro de Reclamaciones</a></li>
+          </ul>
+        </nav>
+      </div>
+      <div class="container2">
+        <h4 class="h4">corporativo</h4>
+        <nav class="nav2">
+          <ul>
+            <li><a href="">Nosotros</a></li>
+            <li><a href="">Tienda</a></li>
+            <li><a href="">Contactos</a></li>
+          </ul>
+        </nav>
+      </div>
+      <div class="container3">
+        <h4>redes sociales</h4>
+        <div class="col_1">
+          <a href=""><i class="fa-brands fa-facebook"></i></a>
+          <a href=""><i class="fa-brands fa-instagram"></i></a>
+          <a href=""><i class="fab fa-tiktok"></i></a>
+        </div>
+        <div class="col_2">
+          <a href=""><i class="fa-brands fa-twitter"></i></a>
+          <a href=""><i class="fa-brands fa-youtube"></i></a>
+        </div>
+      </div>
+
+    </div>
+    <div class="pie2">
+      <h5>© TODOS LOS DERECHOS RESERVADOS</h5>
+    </div>
+  </footer>
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
+    integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r"
+    crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.min.js"
+    integrity="sha384-fbbOQedDUMZZ5KreZpsbe1LCZPVmfTnH7ois6mU1QK+m14rQ1l2bGBq41eYeM/fS"
+    crossorigin="anonymous"></script>
+  <script type="module" src="js/prendas.js"></script>
+  <script src="js/app.js"></script>
+  <script src="js/item.js"></script>
+  <script src="js/funciones.js"></script>
+</body>
+
+</html>

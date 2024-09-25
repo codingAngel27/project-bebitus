@@ -1,0 +1,136 @@
+.btn-primary {
+    background-color: #Be9485 !important;
+    border-color: #Be9485 !important;
+    text-decoration: none;
+}
+
+.btn-primary:hover {
+    background-color: #bd8976 !important;
+    border-color: #bd8976;
+}
+
+.productos {
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.producto {
+    background-color: #f5eee8;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 1em;
+    border-radius: 1em;
+}
+
+.card img {
+    height: 400px;
+}
+
+.card {
+    background-color: #f5eee8;
+    align-items: center;
+}
+
+.card a {
+    display: flex;
+    justify-content: center;
+    
+}
+
+.page-link {
+    background-color: white;
+    border-color: white;
+    color: #bd8976;
+
+}
+
+.active .page-link {
+    background-color: #bd8976;
+    color: white;
+    border-color: #bd8976;
+
+}
+
+.page-link:hover {
+    background-color: rgb(230, 229, 229);
+    border-color: rgb(230, 229, 229);
+    color: #bd8976;
+
+}
+
+.prenda-title {
+    height: 2.4em;
+    line-height: 1.2em;
+}
+
+.cart-img {
+    height: 150px !important;
+    width: 120px;
+    object-fit: cover;
+}
+
+#prendasAgregados{
+display: flex;
+
+height: 100%;
+
+}
+#prendasAgregados h5{
+    display: flex;
+margin: 16px;
+flex-direction: column;
+justify-content: space-between;
+
+
+}
+
+#montoCompra ul {
+    width: 100%;
+padding: 0;
+
+}
+
+
+#montoCompra ul li {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+
+}
+
+#montoPago {
+    display: flex;
+justify-content: space-between;
+
+
+}
+
+
+#pago{
+   
+   margin: 16px;
+}
+.modal-footer{
+    display: flex;
+ justify-content: center;
+
+    
+}
+#carrito2{
+   color: #a06c57;
+   cursor: pointer;
+}
+.carritoDelete{
+cursor: pointer;
+
+}
+.carritoDelete:hover{
+    color: red;
+}
+.botonPagar{
+    width: 60%;
+    
+}

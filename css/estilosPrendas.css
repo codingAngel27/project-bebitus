@@ -1,0 +1,15 @@
+.card{
+    background-color: #f5eee8;
+}
+
+  .btn-primary {
+    background-color: #Be9485 ;
+    border-color: #Be9485 ;
+    font-size: 18px;
+    width: max-content;
+}
+
+.btn-primary:hover {
+    background-color: #bd8976 ;
+    border-color: #bd8976;
+}

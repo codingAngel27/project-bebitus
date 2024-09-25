@@ -1,0 +1,1672 @@
+[
+   {
+      "id": "",
+      "imagen": "img/prendas/bebenina/4packPoloMl.png",
+      "nombre": "4 pack Polo Manga larga",
+      "precio": 80,
+      "categoria": "Bebe Niña",
+      "descuento": 0,
+      "tallas": [
+         "RN",
+         "3M-6M",
+         "6M-9M",
+         "9M-12M",
+         "12M-18M",
+         "18M-24M"
+      ]
+   },
+   {
+      "id": "8b427656-11e5-432d-b7ad-4bd73b2244a1",
+      "imagen": "img/prendas/bebenina/5PackEnterisopink.png",
+      "nombre": "5 Pack Enteriso-pink",
+      "precio": 155,
+      "categoria": "Bebe Niña",
+      "descuento": 0,
+      "tallas": [
+         "RN",
+         "3M-6M",
+         "6M-9M",
+         "9M-12M",
+         "12M-18M",
+         "18M-24M"
+      ]
+   },
+   {
+      "id": "b3cc799b-db13-47f9-a0f4-d5ad0b56050a",
+      "imagen": "img/prendas/bebenina/5packBodyMl.png",
+      "nombre": "5 pack Body Puntos Manga Corta",
+      "precio": 120,
+      "categoria": "Bebe Niña",
+      "descuento": 0,
+      "tallas": [
+         "RN",
+         "3M-6M",
+         "6M-9M",
+         "9M-12M",
+         "12M-18M",
+         "18M-24M"
+      ]
+   },
+   {
+      "id": "0df17cea-b0f3-4889-87bd-759b064d64a3",
+      "imagen": "img/prendas/bebenina/6packBabero.png",
+      "nombre": "6 Pack Babero flores",
+      "precio": 35,
+      "categoria": "Bebe Niña",
+      "descuento": 0,
+      "tallas": [
+         "RN",
+         "3M-6M",
+         "6M-9M",
+         "9M-12M",
+         "12M-18M",
+         "18M-24M"
+      ]
+   },
+   {
+      "id": "5b6d26db-5bce-495b-a0e1-9c84d2e01b94",
+      "imagen": "img/prendas/bebenina/conjuntoBambi.png",
+      "nombre": "conjunto Bambi",
+      "precio": 110,
+      "categoria": "Bebe Niña",
+      "descuento": 0,
+      "tallas": [
+         "RN",
+         "3M-6M",
+         "6M-9M",
+         "9M-12M",
+         "12M-18M",
+         "18M-24M"
+      ]
+   },
+   {
+      "id": "68bf85c2-683a-4375-baf4-147f8e6c6d6a",
+      "imagen": "img/prendas/bebenina/conjuntoChompaFalda.png",
+      "nombre": "conjunto Osito-ChompaFalda",
+      "precio": 125,
+      "categoria": "Bebe Niña",
+      "descuento": 0,
+      "tallas": [
+         "RN",
+         "3M-6M",
+         "6M-9M",
+         "9M-12M",
+         "12M-18M",
+         "18M-24M"
+      ]
+   },
+   {
+      "id": "75dacb91-569f-4cb6-9d5a-2905deb048f4",
+      "imagen": "img/prendas/bebenina/conjuntoConejo.png",
+      "nombre": "Conjunto Conejo",
+      "precio": 50,
+      "categoria": "Bebe Niña",
+      "descuento": 0,
+      "tallas": [
+         "RN",
+         "3M-6M",
+         "6M-9M",
+         "9M-12M",
+         "12M-18M",
+         "18M-24M"
+      ]
+   },
+   {
+      "id": "63ac6b5c-bda0-4aa5-bc4c-a40932230148",
+      "imagen": "img/prendas/bebenina/conjuntoGatito.png",
+      "nombre": " Pack X2 Conjunto Gatito",
+      "precio": 95,
+      "categoria": "Bebe Niña",
+      "descuento": 0,
+      "tallas": [
+         "RN",
+         "3M-6M",
+         "6M-9M",
+         "9M-12M",
+         "12M-18M",
+         "18M-24M"
+      ]
+   },
+   {
+      "id": "c4529f1f-2f2f-4a9e-9f5c-8435437f9e81",
+      "imagen": "img/prendas/bebenina/conjuntoGuindaFlores.png",
+      "nombre": "Conjunto Guinda Flores",
+      "precio": 60,
+      "categoria": "Bebe Niña",
+      "descuento": 0,
+      "tallas": [
+         "RN",
+         "3M-6M",
+         "6M-9M",
+         "9M-12M",
+         "12M-18M",
+         "18M-24M"
+      ]
+   },
+   {
+      "id": "4faaf69b-fb03-467b-a7d1-34e5b4f73864",
+      "imagen": "img/prendas/bebenina/conjuntoOberolCamisa.png",
+      "nombre": "Conjunto Oberol-Flores Camisa",
+      "precio": 65,
+      "categoria": "Bebe Niña",
+      "descuento": 0,
+      "tallas": [
+         "RN",
+         "3M-6M",
+         "6M-9M",
+         "9M-12M",
+         "12M-18M",
+         "18M-24M"
+      ]
+   },
+   {
+      "id": "2186fcdf-76cf-4e73-a529-b20a87e09545",
+      "imagen": "img/prendas/bebenina/conjuntoPlanta.png",
+      "nombre": "Conjunto Plantitas",
+      "precio": 45,
+      "categoria": "Bebe Niña",
+      "descuento": 0,
+      "tallas": [
+         "RN",
+         "3M-6M",
+         "6M-9M",
+         "9M-12M",
+         "12M-18M",
+         "18M-24M"
+      ]
+   },
+   {
+      "id": "3ff6fa31-0f78-4051-9ad1-f413850ed720",
+      "imagen": "img/prendas/bebenina/conjuntoPoloPantalon.png",
+      "nombre": "Conjunto Rosa Polo-Pantalon",
+      "precio": 60,
+      "categoria": "Bebe Niña",
+      "descuento": 0,
+      "tallas": [
+         "RN",
+         "3M-6M",
+         "6M-9M",
+         "9M-12M",
+         "12M-18M",
+         "18M-24M"
+      ]
+   },
+   {
+      "id": "fcd5c340-2650-4a28-91de-13aeba942497",
+      "imagen": "img/prendas/bebenina/conjuntoTigre.png",
+      "nombre": "Conjunto Tigre",
+      "precio": 65,
+      "categoria": "Bebe Niña",
+      "descuento": 0,
+      "tallas": [
+         "RN",
+         "3M-6M",
+         "6M-9M",
+         "9M-12M",
+         "12M-18M",
+         "18M-24M"
+      ]
+   },
+   {
+      "id": "341b170e-923d-4774-be05-0fcf57c90aaf",
+      "imagen": "img/prendas/bebenina/enterisoCuadros.png",
+      "nombre": "Enteriso Cuadros",
+      "precio": 45,
+      "categoria": "Bebe Niña",
+      "descuento": 0,
+      "tallas": [
+         "RN",
+         "3M-6M",
+         "6M-9M",
+         "9M-12M",
+         "12M-18M",
+         "18M-24M"
+      ]
+   },
+   {
+      "id": "bf4dd2af-4327-4063-961c-bdbf4f88f82f",
+      "imagen": "img/prendas/bebenina/enterisoPuntosAmarillo.png",
+      "nombre": "Enteriso Puntos Amarillo",
+      "precio": 50,
+      "categoria": "Bebe Niña",
+      "descuento": 0,
+      "tallas": [
+         "RN",
+         "3M-6M",
+         "6M-9M",
+         "9M-12M",
+         "12M-18M",
+         "18M-24M"
+      ]
+   },
+   {
+      "id": "3efb5266-61f0-4870-8e40-c06a20dc6e43",
+      "imagen": "img/prendas/bebenina/enterisoRosaFlores.png",
+      "nombre": "Enteriso Rosa-Flores",
+      "precio": 50,
+      "categoria": "Bebe Niña",
+      "descuento": 0,
+      "tallas": [
+         "RN",
+         "3M-6M",
+         "6M-9M",
+         "9M-12M",
+         "12M-18M",
+         "18M-24M"
+      ]
+   },
+   {
+      "id": "2d0af077-93d1-4514-9066-8c4e21c64777",
+      "imagen": "img/prendas/bebenina/enterisoRosaVestido.png",
+      "nombre": "Enteriso Vestido blondas",
+      "precio": 55,
+      "categoria": "Bebe Niña",
+      "descuento": 0,
+      "tallas": [
+         "RN",
+         "3M-6M",
+         "6M-9M",
+         "9M-12M",
+         "12M-18M",
+         "18M-24M"
+      ]
+   },
+   {
+      "id": "19291af5-f8f2-40f3-be47-d1780bce0792",
+      "imagen": "img/prendas/bebenina/oberolJeans.png",
+      "nombre": "Oberol JeansFlo",
+      "precio": 65,
+      "categoria": "Bebe Niña",
+      "descuento": 0,
+      "tallas": [
+         "RN",
+         "3M-6M",
+         "6M-9M",
+         "9M-12M",
+         "12M-18M",
+         "18M-24M"
+      ]
+   },
+   {
+      "id": "120504d6-5cc9-4a1c-a337-38be25c6d341",
+      "imagen": "img/prendas/bebenina/packEnteriso.png",
+      "nombre": "Pack Enteriso pollito",
+      "precio": 80,
+      "categoria": "Bebe Niña",
+      "descuento": 0,
+      "tallas": [
+         "RN",
+         "3M-6M",
+         "6M-9M",
+         "9M-12M",
+         "12M-18M",
+         "18M-24M"
+      ]
+   },
+   {
+      "id": "8c5c1dd2-e695-46a1-8246-025c9e26668e",
+      "imagen": "img/prendas/bebenina/Rompers4PackPink.png",
+      "nombre": "4 Pack enteriso ML Flores",
+      "precio": 135,
+      "categoria": "Bebe Niña",
+      "descuento": 0,
+      "tallas": [
+         "RN",
+         "3M-6M",
+         "6M-9M",
+         "9M-12M",
+         "12M-18M",
+         "18M-24M"
+      ]
+   },
+   {
+      "id": "e8c404ab-fcf6-4ff7-9c5c-366c0077ed2c",
+      "imagen": "img/prendas/bebenina/tripackBodyCuello.png",
+      "nombre": "Tripack Body Cuello Redondo",
+      "precio": 80,
+      "categoria": "Bebe Niña",
+      "descuento": 0,
+      "tallas": [
+         "RN",
+         "3M-6M",
+         "6M-9M",
+         "9M-12M",
+         "12M-18M",
+         "18M-24M"
+      ]
+   },
+   {
+      "id": "193360d7-d66f-423b-af32-c67881a96b7c",
+      "imagen": "img/prendas/bebenina/tripackBodyMc.png",
+      "nombre": "Tripack Body Mc",
+      "precio": 65,
+      "categoria": "Bebe Niña",
+      "descuento": 0,
+      "tallas": [
+         "RN",
+         "3M-6M",
+         "6M-9M",
+         "9M-12M",
+         "12M-18M",
+         "18M-24M"
+      ]
+   },
+   {
+      "id": "c17784f2-5c8b-4132-94d8-2c9a6aa29e2b",
+      "imagen": "img/prendas/bebenina/tripackBodyMl.png",
+      "nombre": "Tripack Body conejo ML",
+      "precio": 80,
+      "categoria": "Bebe Niña",
+      "descuento": 0,
+      "tallas": [
+         "RN",
+         "3M-6M",
+         "6M-9M",
+         "9M-12M",
+         "12M-18M",
+         "18M-24M"
+      ]
+   },
+   {
+      "id": "876d846c-ce6d-4d7a-bb3c-f925de678eee",
+      "imagen": "img/prendas/bebenina/tripackBodyRaya.png",
+      "nombre": "Tripack Body Raya ML",
+      "precio": 80,
+      "categoria": "Bebe Niña",
+      "descuento": 0,
+      "tallas": [
+         "RN",
+         "3M-6M",
+         "6M-9M",
+         "9M-12M",
+         "12M-18M",
+         "18M-24M"
+      ]
+   },
+   {
+      "id": "dd2cc954-f636-4198-a381-f060cfaacf6c",
+      "imagen": "img/prendas/bebenina/TripackEnterisoFloreado.png",
+      "nombre": "Tripack Enteriso Floreado",
+      "precio": 110,
+      "categoria": "Bebe Niña",
+      "descuento": 0,
+      "tallas": [
+         "RN",
+         "3M-6M",
+         "6M-9M",
+         "9M-12M",
+         "12M-18M",
+         "18M-24M"
+      ]
+   },
+   {
+      "id": "0f86c865-e641-4b4a-8b24-129127eea4cc",
+      "imagen": "img/prendas/bebenina/tripackPoleraBambi.png",
+      "nombre": "Tripack Polera Bambi",
+      "precio": 135,
+      "categoria": "Bebe Niña",
+      "descuento": 0,
+      "tallas": [
+         "RN",
+         "3M-6M",
+         "6M-9M",
+         "9M-12M",
+         "12M-18M",
+         "18M-24M"
+      ]
+   },
+   {
+      "id": "14b390a4-89a6-4bdd-a0c7-8fc06cf08a72",
+      "imagen": "img/prendas/bebenina/tripackPoloGatito.png",
+      "nombre": "Tripack Polo Gatito",
+      "precio": 55,
+      "categoria": "Bebe Niña",
+      "descuento": 0,
+      "tallas": [
+         "RN",
+         "3M-6M",
+         "6M-9M",
+         "9M-12M",
+         "12M-18M",
+         "18M-24M"
+      ]
+   },
+   {
+      "id": "21797dfe-df21-4aab-8736-959726a75531",
+      "imagen": "img/prendas/bebenina/tripackPoloUnicornio.png",
+      "nombre": "Tripack Polo Unicornio",
+      "precio": 55,
+      "categoria": "Bebe Niña",
+      "descuento": 0,
+      "tallas": [
+         "RN",
+         "3M-6M",
+         "6M-9M",
+         "9M-12M",
+         "12M-18M",
+         "18M-24M"
+      ]
+   },
+   {
+      "id": "c408a964-2a89-40b9-a990-76418a22a03b",
+      "imagen": "img/prendas/bebenina/vestidoCaperusita.png",
+      "nombre": "Vestido Caperusita",
+      "precio": 45,
+      "categoria": "Bebe Niña",
+      "descuento": 0,
+      "tallas": [
+         "RN",
+         "3M-6M",
+         "6M-9M",
+         "9M-12M",
+         "12M-18M",
+         "18M-24M"
+      ]
+   },
+   {
+      "id": "058501cc-c1ed-40fc-9df8-c445eae27d2d",
+      "imagen": "./img/prendas/bebenino/5PackEnterisoMl.png",
+      "nombre": "5 Pack Enteriso animalitos Ml",
+      "precio": 150,
+      "categoria": "Bebe Niño",
+      "descuento": 0,
+      "tallas": [
+         "RN",
+         "3M-6M",
+         "6M-9M",
+         "9M-12M",
+         "12M-18M",
+         "18M-24M"
+      ]
+   },
+   {
+      "id": "2b94a8a3-998b-4f94-b19d-d513c7e33480",
+      "imagen": "./img/prendas/bebenino/5packPantalon.png",
+      "nombre": "5 Pack Pantalon basic",
+      "precio": 70,
+      "categoria": "Bebe Niño",
+      "descuento": 0,
+      "tallas": [
+         "RN",
+         "3M-6M",
+         "6M-9M",
+         "9M-12M",
+         "12M-18M",
+         "18M-24M"
+      ]
+   },
+   {
+      "id": "97c65984-a1c9-4889-b1b7-94c6c9ab44f4",
+      "imagen": "./img/prendas/bebenino/conjuntoOberolHilo.png",
+      "nombre": "Conjunto Oberol Hilo",
+      "precio": 95,
+      "categoria": "Bebe Niño",
+      "descuento": 0,
+      "tallas": [
+         "RN",
+         "3M-6M",
+         "6M-9M",
+         "9M-12M",
+         "12M-18M",
+         "18M-24M"
+      ]
+   },
+   {
+      "id": "80db30ec-c2a5-420f-a745-c191164fe108",
+      "imagen": "./img/prendas/bebenino/conjuntoOberolPoloDino.png",
+      "nombre": "Conjunto Oberol Dino",
+      "precio": 85,
+      "categoria": "Bebe Niño",
+      "descuento": 0,
+      "tallas": [
+         "RN",
+         "3M-6M",
+         "6M-9M",
+         "9M-12M",
+         "12M-18M",
+         "18M-24M"
+      ]
+   },
+   {
+      "id": "a2b9a9cd-ff66-46c4-9ea3-721d973ccd6a",
+      "imagen": "./img/prendas/bebenino/conjuntoPerritoInvi.png",
+      "nombre": "Conjunto Perrito",
+      "precio": 95,
+      "categoria": "Bebe Niño",
+      "descuento": 0,
+      "tallas": [
+         "RN",
+         "3M-6M",
+         "6M-9M",
+         "9M-12M",
+         "12M-18M",
+         "18M-24M"
+      ]
+   },
+   {
+      "id": "4f3f01a6-2f4d-446e-bc49-de5783a264a5",
+      "imagen": "./img/prendas/bebenino/conjuntoPlaya.png",
+      "nombre": "Conjunto Tortuga",
+      "precio": 65,
+      "categoria": "Bebe Niño",
+      "descuento": 0,
+      "tallas": [
+         "RN",
+         "3M-6M",
+         "6M-9M",
+         "9M-12M",
+         "12M-18M",
+         "18M-24M"
+      ]
+   },
+   {
+      "id": "a437c165-92e0-4fe7-9306-6585b72d8688",
+      "imagen": "./img/prendas/bebenino/conjuntoRajaPantalonPolera.jpg",
+      "nombre": "Conjunto Raja",
+      "precio": 95,
+      "categoria": "Bebe Niño",
+      "descuento": 0,
+      "tallas": [
+         "RN",
+         "3M-6M",
+         "6M-9M",
+         "9M-12M",
+         "12M-18M",
+         "18M-24M"
+      ]
+   },
+   {
+      "id": "7d58fb2a-6380-499b-8e4b-bc99fc393e6d",
+      "imagen": "./img/prendas/bebenino/enterisoDino.png",
+      "nombre": "Enteriso Dino",
+      "precio": 65,
+      "categoria": "Bebe Niño",
+      "descuento": 0,
+      "tallas": [
+         "RN",
+         "3M-6M",
+         "6M-9M",
+         "9M-12M",
+         "12M-18M",
+         "18M-24M"
+      ]
+   },
+   {
+      "id": "e4326b76-0dc8-419b-bb22-349a41592af3",
+      "imagen": "./img/prendas/bebenino/enterisoDinoVerde.png",
+      "nombre": "Enteriso Dino Verde",
+      "precio": 55,
+      "categoria": "Bebe Niño",
+      "descuento": 0,
+      "tallas": [
+         "RN",
+         "3M-6M",
+         "6M-9M",
+         "9M-12M",
+         "12M-18M",
+         "18M-24M"
+      ]
+   },
+   {
+      "id": "47ccea8e-01ae-48d7-b09b-c73a46921f55",
+      "imagen": "./img/prendas/bebenino/enterisoHilo.png",
+      "nombre": "Enteriso Hilo",
+      "precio": 45,
+      "categoria": "Bebe Niño",
+      "descuento": 0,
+      "tallas": [
+         "RN",
+         "3M-6M",
+         "6M-9M",
+         "9M-12M",
+         "12M-18M",
+         "18M-24M"
+      ]
+   },
+   {
+      "id": "29cccd0b-de04-4702-9fe5-8ce2a93b1a02",
+      "imagen": "./img/prendas/bebenino/packEnterisoMc.png",
+      "nombre": "Pack Enteriso Globos Mc",
+      "precio": 65,
+      "categoria": "Bebe Niño",
+      "descuento": 0,
+      "tallas": [
+         "RN",
+         "3M-6M",
+         "6M-9M",
+         "9M-12M",
+         "12M-18M",
+         "18M-24M"
+      ]
+   },
+   {
+      "id": "0e479f95-9fa9-40d6-8d71-214e2ac17e1f",
+      "imagen": "./img/prendas/bebenino/packOberolDino.png",
+      "nombre": "Pack Oberol Dino",
+      "precio": 95,
+      "categoria": "Bebe Niño",
+      "descuento": 0,
+      "tallas": [
+         "RN",
+         "3M-6M",
+         "6M-9M",
+         "9M-12M",
+         "12M-18M",
+         "18M-24M"
+      ]
+   },
+   {
+      "id": "5f8c2d51-46bf-48da-8739-1e9a39154ffb",
+      "imagen": "./img/prendas/bebenino/pantalonTiras.png",
+      "nombre": "Pantalon conduroy con Tirantes",
+      "precio": 60,
+      "categoria": "Bebe Niño",
+      "descuento": 0,
+      "tallas": [
+         "RN",
+         "3M-6M",
+         "6M-9M",
+         "9M-12M",
+         "12M-18M",
+         "18M-24M"
+      ]
+   },
+   {
+      "id": "06460333-1535-44b7-846d-db1cf213f186",
+      "imagen": "./img/prendas/bebenino/tripackConjuntoBasic.png",
+      "nombre": "Tripack Conjunto Basic",
+      "precio": 135,
+      "categoria": "Bebe Niño",
+      "descuento": 0,
+      "tallas": [
+         "RN",
+         "3M-6M",
+         "6M-9M",
+         "9M-12M",
+         "12M-18M",
+         "18M-24M"
+      ]
+   },
+   {
+      "id": "e2595867-745b-4f23-b27b-d83c4fe39906",
+      "imagen": "./img/prendas/bebenino/tripackEnterisoOso.png",
+      "nombre": "Tripack Enteriso Oso",
+      "precio": 85,
+      "categoria": "Bebe Niño",
+      "descuento": 0,
+      "tallas": [
+         "RN",
+         "3M-6M",
+         "6M-9M",
+         "9M-12M",
+         "12M-18M",
+         "18M-24M"
+      ]
+   },
+   {
+      "id": "66533bf3-f822-4620-b5fe-380d2e69d719",
+      "imagen": "./img/prendas/bebenino/tripackPoloAnimalitos.png",
+      "nombre": "Tripack Polo Animalitos Ml",
+      "precio": 55,
+      "categoria": "Bebe Niño",
+      "descuento": 0,
+      "tallas": [
+         "RN",
+         "3M-6M",
+         "6M-9M",
+         "9M-12M",
+         "12M-18M",
+         "18M-24M"
+      ]
+   },
+   {
+      "id": "cb64ceb5-2cd2-4f98-876a-c3e1811563b0",
+      "imagen": "./img/prendas/bebenino/tripackPoloMlElefante.png",
+      "nombre": "Tripack Polo Elefante Ml",
+      "precio": 55,
+      "categoria": "Bebe Niño",
+      "descuento": 0,
+      "tallas": [
+         "RN",
+         "3M-6M",
+         "6M-9M",
+         "9M-12M",
+         "12M-18M",
+         "18M-24M"
+      ]
+   },
+   {
+      "id": "e742438a-a7aa-4049-81e8-8814cde363d5",
+      "imagen": "./img/prendas/bebenino/tripackShortAnimalitos.png",
+      "nombre": "Tripack Short Animalitos",
+      "precio": 45,
+      "categoria": "Bebe Niño",
+      "descuento": 0,
+      "tallas": [
+         "RN",
+         "3M-6M",
+         "6M-9M",
+         "9M-12M",
+         "12M-18M",
+         "18M-24M"
+      ]
+   },
+   {
+      "id": "59b9a584-fe53-4510-a884-3e277048e575",
+      "imagen": "./img/prendas/nina/abrigoCamel.png",
+      "nombre": "Abrigo Camel",
+      "precio": 140,
+      "categoria": "Niña",
+      "descuento": 0,
+      "tallas": [
+         "2",
+         "4",
+         "6",
+         "8",
+         "10",
+         "12",
+         "14",
+         "16"
+      ]
+   },
+   {
+      "id": "8c3ce8e8-9c12-4877-a4cc-47fc31d747aa",
+      "imagen": "./img/prendas/nina/AbrigoVerde.png",
+      "nombre": "Abrigo Verde",
+      "precio": 135,
+      "categoria": "Niña",
+      "descuento": 0,
+      "tallas": [
+         "2",
+         "4",
+         "6",
+         "8",
+         "10",
+         "12",
+         "14",
+         "16"
+      ]
+   },
+   {
+      "id": "f5fa2562-e391-46b7-ad88-b53717949aab",
+      "imagen": "./img/prendas/nina/blusaCuadros.png",
+      "nombre": "Blusa Cuadros blondas",
+      "precio": 65,
+      "categoria": "Niña",
+      "descuento": 0,
+      "tallas": [
+         "2",
+         "4",
+         "6",
+         "8",
+         "10",
+         "12",
+         "14",
+         "16"
+      ]
+   },
+   {
+      "id": "c787270f-1adc-4395-a022-08fb53205c8d",
+      "imagen": "./img/prendas/nina/blusaRajas.png",
+      "nombre": "Blusa Rayas",
+      "precio": 65,
+      "categoria": "Niña",
+      "descuento": 0,
+      "tallas": [
+         "2",
+         "4",
+         "6",
+         "8",
+         "10",
+         "12",
+         "14",
+         "16"
+      ]
+   },
+   {
+      "id": "d6cf82a2-0ae7-487b-90df-89ebb4219b3f",
+      "imagen": "./img/prendas/nina/camisaColores.png",
+      "nombre": "Blusa Colores",
+      "precio": 65,
+      "categoria": "Niña",
+      "descuento": 0,
+      "tallas": [
+         "2",
+         "4",
+         "6",
+         "8",
+         "10",
+         "12",
+         "14",
+         "16"
+      ]
+   },
+   {
+      "id": "b1935528-76df-439b-af16-1f9cfff204d2",
+      "imagen": "./img/prendas/nina/casacadenin.png",
+      "nombre": "Casaca Denin",
+      "precio": 100,
+      "categoria": "Niña",
+      "descuento": 0,
+      "tallas": [
+         "2",
+         "4",
+         "6",
+         "8",
+         "10",
+         "12",
+         "14",
+         "16"
+      ]
+   },
+   {
+      "id": "494e0b0c-3327-4490-b3a0-d60a667d5f5d",
+      "imagen": "./img/prendas/nina/chaquetaRosaCuadros.png",
+      "nombre": "chaqueta Rosa Cuadros",
+      "precio": 120,
+      "categoria": "Niña",
+      "descuento": 0,
+      "tallas": [
+         "2",
+         "4",
+         "6",
+         "8",
+         "10",
+         "12",
+         "14",
+         "16"
+      ]
+   },
+   {
+      "id": "e4d2a9ff-65dd-4ca2-b6ad-ed0232579a67",
+      "imagen": "./img/prendas/nina/chompaCrema.png",
+      "nombre": "Chompa Crema Boton",
+      "precio": 75,
+      "categoria": "Niña",
+      "descuento": 0,
+      "tallas": [
+         "2",
+         "4",
+         "6",
+         "8",
+         "10",
+         "12",
+         "14",
+         "16"
+      ]
+   },
+   {
+      "id": "cf4bc786-636f-4709-aeb1-4ef38f92f69b",
+      "imagen": "./img/prendas/nina/conjuntoPoleraFalda.png",
+      "nombre": "Conjunto Polera Falda celeste",
+      "precio": 135,
+      "categoria": "Niña",
+      "descuento": 0,
+      "tallas": [
+         "2",
+         "4",
+         "6",
+         "8",
+         "10",
+         "12",
+         "14",
+         "16"
+      ]
+   },
+   {
+      "id": "595fdb6a-f416-4254-896d-dc5a4a420d76",
+      "imagen": "./img/prendas/nina/conjuntoPoleraPanta.png",
+      "nombre": "Conjunto Polera-rosa",
+      "precio": 135,
+      "categoria": "Niña",
+      "descuento": 0,
+      "tallas": [
+         "2",
+         "4",
+         "6",
+         "8",
+         "10",
+         "12",
+         "14",
+         "16"
+      ]
+   },
+   {
+      "id": "351db2d0-a8ee-4b43-9a93-ac03217979d1",
+      "imagen": "./img/prendas/nina/conjuntoPoloFalda.png",
+      "nombre": "Conjunto Naranja",
+      "precio": 100,
+      "categoria": "Niña",
+      "descuento": 0,
+      "tallas": [
+         "2",
+         "4",
+         "6",
+         "8",
+         "10",
+         "12",
+         "14",
+         "16"
+      ]
+   },
+   {
+      "id": "c9d6a289-bf76-46db-8637-faafa785de2a",
+      "imagen": "./img/prendas/nina/conjuntoRayas.png",
+      "nombre": "Conjunto Raya",
+      "precio": 125,
+      "categoria": "Niña",
+      "descuento": 0,
+      "tallas": [
+         "2",
+         "4",
+         "6",
+         "8",
+         "10",
+         "12",
+         "14",
+         "16"
+      ]
+   },
+   {
+      "id": "895ee037-7a01-44bf-89ee-a3c52133a1d1",
+      "imagen": "./img/prendas/nina/conjuntoSacoFaldaAmarillo.png",
+      "nombre": "Conjunto Amarillo",
+      "precio": 145,
+      "categoria": "Niña",
+      "descuento": 0,
+      "tallas": [
+         "2",
+         "4",
+         "6",
+         "8",
+         "10",
+         "12",
+         "14",
+         "16"
+      ]
+   },
+   {
+      "id": "1f245b6f-0ca9-4184-b42c-15143c6662b2",
+      "imagen": "./img/prendas/nina/enterisoDenin.png",
+      "nombre": "Enteriso Denin",
+      "precio": 95,
+      "categoria": "Niña",
+      "descuento": 0,
+      "tallas": [
+         "2",
+         "4",
+         "6",
+         "8",
+         "10",
+         "12",
+         "14",
+         "16"
+      ]
+   },
+   {
+      "id": "8893775f-91d3-4f83-aab3-fffa8e056790",
+      "imagen": "./img/prendas/nina/enterisoShortBlanco.png",
+      "nombre": "Enteriso Short Blanco",
+      "precio": 90,
+      "categoria": "Niña",
+      "descuento": 0,
+      "tallas": [
+         "2",
+         "4",
+         "6",
+         "8",
+         "10",
+         "12",
+         "14",
+         "16"
+      ]
+   },
+   {
+      "id": "6897037d-53df-4d61-a9a2-b39d2617f3d9",
+      "imagen": "./img/prendas/nina/faldaDenin.png",
+      "nombre": "Falda Denin",
+      "precio": 65,
+      "categoria": "Niña",
+      "descuento": 0,
+      "tallas": [
+         "2",
+         "4",
+         "6",
+         "8",
+         "10",
+         "12",
+         "14",
+         "16"
+      ]
+   },
+   {
+      "id": "ed506c50-54f1-4ebf-95eb-a7e90b9bd5c2",
+      "imagen": "./img/prendas/nina/faldaMarron.png",
+      "nombre": "Falda Marron",
+      "precio": 65,
+      "categoria": "Niña",
+      "descuento": 0,
+      "tallas": [
+         "2",
+         "4",
+         "6",
+         "8",
+         "10",
+         "12",
+         "14",
+         "16"
+      ]
+   },
+   {
+      "id": "9f5bd474-3eed-464b-ba5d-d2df91694c61",
+      "imagen": "./img/prendas/nina/JacketsLargoCrema.png",
+      "nombre": "Jackets Largo Crema",
+      "precio": 145,
+      "categoria": "Niña",
+      "descuento": 0,
+      "tallas": [
+         "2",
+         "4",
+         "6",
+         "8",
+         "10",
+         "12",
+         "14",
+         "16"
+      ]
+   },
+   {
+      "id": "83800119-4b86-492e-8521-48400ffd3920",
+      "imagen": "./img/prendas/nina/leñadorCuadros.png",
+      "nombre": "Leñador Cuadros",
+      "precio": 95,
+      "categoria": "Niña",
+      "descuento": 0,
+      "tallas": [
+         "2",
+         "4",
+         "6",
+         "8",
+         "10",
+         "12",
+         "14",
+         "16"
+      ]
+   },
+   {
+      "id": "384a8ce0-77dc-4626-a4ef-5375b8612664",
+      "imagen": "./img/prendas/nina/oberolDenin.png",
+      "nombre": "Oberol Denin",
+      "precio": 110,
+      "categoria": "Niña",
+      "descuento": 0,
+      "tallas": [
+         "2",
+         "4",
+         "6",
+         "8",
+         "10",
+         "12",
+         "14",
+         "16"
+      ]
+   },
+   {
+      "id": "812393fd-95a3-43d8-b061-6485e714025d",
+      "imagen": "./img/prendas/nina/pantalonDeninBolsillo.png",
+      "nombre": "Pantalón Denin Bolsillo",
+      "precio": 85,
+      "categoria": "Niña",
+      "descuento": 0,
+      "tallas": [
+         "2",
+         "4",
+         "6",
+         "8",
+         "10",
+         "12",
+         "14",
+         "16"
+      ]
+   },
+   {
+      "id": "51a433a3-71f1-49e3-b0cf-3b341ceacf1f",
+      "imagen": "./img/prendas/nina/pantalonJeansPalazo.png",
+      "nombre": "Pantalón Jeans Palazo",
+      "precio": 85,
+      "categoria": "Niña",
+      "descuento": 0,
+      "tallas": [
+         "2",
+         "4",
+         "6",
+         "8",
+         "10",
+         "12",
+         "14",
+         "16"
+      ]
+   },
+   {
+      "id": "25b635b5-938c-4863-8110-ce02346aa97c",
+      "imagen": "./img/prendas/nina/poleraSnoopyBlanco.png",
+      "nombre": "Polera Snoopy Blanco",
+      "precio": 70,
+      "categoria": "Niña",
+      "descuento": 0,
+      "tallas": [
+         "2",
+         "4",
+         "6",
+         "8",
+         "10",
+         "12",
+         "14",
+         "16"
+      ]
+   },
+   {
+      "id": "f25f199b-a2f9-4744-be9c-acdd80101ce0",
+      "imagen": "./img/prendas/nina/poleraSnoopyPlomo.png",
+      "nombre": "Polera Snoopy Plomo",
+      "precio": 70,
+      "categoria": "Niña",
+      "descuento": 0,
+      "tallas": [
+         "2",
+         "4",
+         "6",
+         "8",
+         "10",
+         "12",
+         "14",
+         "16"
+      ]
+   },
+   {
+      "id": "4a812102-a45e-4a03-a7d5-13d09738320b",
+      "imagen": "./img/prendas/nina/vestidoAmarillo.png",
+      "nombre": "Vestido cuadros Amarillo",
+      "precio": 65,
+      "categoria": "Niña",
+      "descuento": 0,
+      "tallas": [
+         "2",
+         "4",
+         "6",
+         "8",
+         "10",
+         "12",
+         "14",
+         "16"
+      ]
+   },
+   {
+      "id": "fcc03fb0-7f7f-43b8-9537-cee4beee53f6",
+      "imagen": "./img/prendas/nina/vestidoColores.png",
+      "nombre": "Vestido Colores",
+      "precio": 80,
+      "categoria": "Niña",
+      "descuento": 0,
+      "tallas": [
+         "2",
+         "4",
+         "6",
+         "8",
+         "10",
+         "12",
+         "14",
+         "16"
+      ]
+   },
+   {
+      "id": "dea4aa55-4489-470b-b0e1-1cfdf12522d2",
+      "imagen": "./img/prendas/nina/vestidoCuadros.png",
+      "nombre": "vestido Cuadros",
+      "precio": 65,
+      "categoria": "Niña",
+      "descuento": 0,
+      "tallas": [
+         "2",
+         "4",
+         "6",
+         "8",
+         "10",
+         "12",
+         "14",
+         "16"
+      ]
+   },
+   {
+      "id": "28657aba-d95b-4baf-a7c3-4e00d86d19c8",
+      "imagen": "./img/prendas/nina/vestidoFloresVerde.png",
+      "nombre": "Vestido Flores Verde",
+      "precio": 65,
+      "categoria": "Niña",
+      "descuento": 0,
+      "tallas": [
+         "2",
+         "4",
+         "6",
+         "8",
+         "10",
+         "12",
+         "14",
+         "16"
+      ]
+   },
+   {
+      "id": "0efad1e9-e7f9-4fcb-91df-597d3342df71",
+      "imagen": "./img/prendas/nina/vestidoRajas.png",
+      "nombre": "Vestido Rayas-Flores",
+      "precio": 70,
+      "categoria": "Niña",
+      "descuento": 0,
+      "tallas": [
+         "2",
+         "4",
+         "6",
+         "8",
+         "10",
+         "12",
+         "14",
+         "16"
+      ]
+   },
+   {
+      "id": "3096c009-e82c-4cc5-b186-bc017041b65d",
+      "imagen": "./img/prendas/nino/abrigoLeñador.png",
+      "nombre": "Abrigo Leñador",
+      "precio": 120,
+      "categoria": "Niño",
+      "descuento": 0,
+      "tallas": [
+         "2",
+         "4",
+         "6",
+         "8",
+         "10",
+         "12",
+         "14",
+         "16"
+      ]
+   },
+   {
+      "id": "2cf0a919-ac45-4ec7-a4ef-6b255dba810f",
+      "imagen": "./img/prendas/nino/abrigoMarron.png",
+      "nombre": "Abrigo Marron",
+      "precio": 140,
+      "categoria": "Niño",
+      "descuento": 0,
+      "tallas": [
+         "2",
+         "4",
+         "6",
+         "8",
+         "10",
+         "12",
+         "14",
+         "16"
+      ]
+   },
+   {
+      "id": "6ceb4f04-98bf-4d3d-b929-20b7f0a3d256",
+      "imagen": "./img/prendas/nino/camisaCuadros.png",
+      "nombre": "Camisa Cuadros",
+      "precio": 65,
+      "categoria": "Niño",
+      "descuento": 0,
+      "tallas": [
+         "2",
+         "4",
+         "6",
+         "8",
+         "10",
+         "12",
+         "14",
+         "16"
+      ]
+   },
+   {
+      "id": "c004516c-a055-43ce-a109-1f391901f753",
+      "imagen": "./img/prendas/nino/camisaDenin.png",
+      "nombre": "Camisa Denin",
+      "precio": 70,
+      "categoria": "Niño",
+      "descuento": 0,
+      "tallas": [
+         "2",
+         "4",
+         "6",
+         "8",
+         "10",
+         "12",
+         "14",
+         "16"
+      ]
+   },
+   {
+      "id": "ea8c4e9a-c9fd-4b8b-a67d-af513d72f91e",
+      "imagen": "./img/prendas/nino/camisaLetraK.png",
+      "nombre": "Camisa Letra",
+      "precio": 70,
+      "categoria": "Niño",
+      "descuento": 0,
+      "tallas": [
+         "2",
+         "4",
+         "6",
+         "8",
+         "10",
+         "12",
+         "14",
+         "16"
+      ]
+   },
+   {
+      "id": "9146eae6-2583-4145-aea4-ade9fcb51acc",
+      "imagen": "./img/prendas/nino/camisaVerde.png",
+      "nombre": "Camisa Verde",
+      "precio": 70,
+      "categoria": "Niño",
+      "descuento": 0,
+      "tallas": [
+         "2",
+         "4",
+         "6",
+         "8",
+         "10",
+         "12",
+         "14",
+         "16"
+      ]
+   },
+   {
+      "id": "50d3d79a-b6ac-4cd6-b66a-e9bbd4370ea5",
+      "imagen": "./img/prendas/nino/casacaCrema.png",
+      "nombre": "Casaca Polar Crema",
+      "precio": 100,
+      "categoria": "Niño",
+      "descuento": 0,
+      "tallas": [
+         "2",
+         "4",
+         "6",
+         "8",
+         "10",
+         "12",
+         "14",
+         "16"
+      ]
+   },
+   {
+      "id": "86815328-71a5-42b8-8e61-ef4203083196",
+      "imagen": "./img/prendas/nino/casacaDenin.png",
+      "nombre": "Casaca Denin",
+      "precio": 95,
+      "categoria": "Niño",
+      "descuento": 0,
+      "tallas": [
+         "2",
+         "4",
+         "6",
+         "8",
+         "10",
+         "12",
+         "14",
+         "16"
+      ]
+   },
+   {
+      "id": "89081780-ef63-4e7a-9451-a41dffc7e33f",
+      "imagen": "./img/prendas/nino/casacaVerde.png",
+      "nombre": "Casaca Verde",
+      "precio": 120,
+      "categoria": "Niño",
+      "descuento": 0,
+      "tallas": [
+         "2",
+         "4",
+         "6",
+         "8",
+         "10",
+         "12",
+         "14",
+         "16"
+      ]
+   },
+   {
+      "id": "18a3d5d6-901a-4a10-98c3-d613a0dcec4e",
+      "imagen": "./img/prendas/nino/chalecoPlomo.png",
+      "nombre": "Chaleco Plomo",
+      "precio": 60,
+      "categoria": "Niño",
+      "descuento": 0,
+      "tallas": [
+         "2",
+         "4",
+         "6",
+         "8",
+         "10",
+         "12",
+         "14",
+         "16"
+      ]
+   },
+   {
+      "id": "d16b66a5-66c4-454a-9d61-19adeb20d442",
+      "imagen": "./img/prendas/nino/chompaRaya.png",
+      "nombre": "Chompa Raya",
+      "precio": 65,
+      "categoria": "Niño",
+      "descuento": 0,
+      "tallas": [
+         "2",
+         "4",
+         "6",
+         "8",
+         "10",
+         "12",
+         "14",
+         "16"
+      ]
+   },
+   {
+      "id": "e7e111b5-9311-4cd9-b49a-7c79ca1133f5",
+      "imagen": "./img/prendas/nino/chompaVerde.png",
+      "nombre": "Chompa Verde",
+      "precio": 65,
+      "categoria": "Niño",
+      "descuento": 0,
+      "tallas": [
+         "2",
+         "4",
+         "6",
+         "8",
+         "10",
+         "12",
+         "14",
+         "16"
+      ]
+   },
+   {
+      "id": "e17694a9-5ec0-431b-b8f3-3d2424e33750",
+      "imagen": "./img/prendas/nino/conjuntoAzul.png",
+      "nombre": "Conjunto Azul",
+      "precio": 130,
+      "categoria": "Niño",
+      "descuento": 0,
+      "tallas": [
+         "2",
+         "4",
+         "6",
+         "8",
+         "10",
+         "12",
+         "14",
+         "16"
+      ]
+   },
+   {
+      "id": "6f187456-f339-4bc0-af7d-4b3f3fc4f110",
+      "imagen": "./img/prendas/nino/conjuntoCamisaPantalon.png",
+      "nombre": "Conjunto Camisa-Pantalon",
+      "precio": 120,
+      "categoria": "Niño",
+      "descuento": 0,
+      "tallas": [
+         "2",
+         "4",
+         "6",
+         "8",
+         "10",
+         "12",
+         "14",
+         "16"
+      ]
+   },
+   {
+      "id": "e0ed5c80-6707-4ebe-9c72-fa166eea5c59",
+      "imagen": "./img/prendas/nino/conjuntoCamisaShort.png",
+      "nombre": "Conjunto Corduroy Camisa-Short",
+      "precio": 110,
+      "categoria": "Niño",
+      "descuento": 0,
+      "tallas": [
+         "2",
+         "4",
+         "6",
+         "8",
+         "10",
+         "12",
+         "14",
+         "16"
+      ]
+   },
+   {
+      "id": "632d9bb0-55f6-437d-8a89-fd29524ec1a1",
+      "imagen": "./img/prendas/nino/conjuntoPoloShortAzul.png",
+      "nombre": "Conjunto Polo-Short Azul",
+      "precio": 85,
+      "categoria": "Niño",
+      "descuento": 0,
+      "tallas": [
+         "2",
+         "4",
+         "6",
+         "8",
+         "10",
+         "12",
+         "14",
+         "16"
+      ]
+   },
+   {
+      "id": "63ccb7fc-3ad4-4570-bc9a-ee68d8784e76",
+      "imagen": "./img/prendas/nino/oberolDeninO.png",
+      "nombre": "Oberol Denin",
+      "precio": 100,
+      "categoria": "Niño",
+      "descuento": 0,
+      "tallas": [
+         "2",
+         "4",
+         "6",
+         "8",
+         "10",
+         "12",
+         "14",
+         "16"
+      ]
+   },
+   {
+      "id": "0666974e-ef59-4467-85f3-e75b84338a85",
+      "imagen": "./img/prendas/nino/packCafarenaRaya.png",
+      "nombre": "Pack Cafarena Raya",
+      "precio": 45,
+      "categoria": "Niño",
+      "descuento": 0,
+      "tallas": [
+         "2",
+         "4",
+         "6",
+         "8",
+         "10",
+         "12",
+         "14",
+         "16"
+      ]
+   },
+   {
+      "id": "8fcd9730-494f-49f0-9c2e-c14eb452721b",
+      "imagen": "./img/prendas/nino/pantalonDenin.png",
+      "nombre": "Pantalon Denin",
+      "precio": 85,
+      "categoria": "Niño",
+      "descuento": 0,
+      "tallas": [
+         "2",
+         "4",
+         "6",
+         "8",
+         "10",
+         "12",
+         "14",
+         "16"
+      ]
+   },
+   {
+      "id": "42c9e61e-7753-46a8-9025-38f15b4d5ca9",
+      "imagen": "./img/prendas/nino/pantalonDeninNegro.png",
+      "nombre": "Pantalon Denin Negro",
+      "precio": 85,
+      "categoria": "Niño",
+      "descuento": 0,
+      "tallas": [
+         "2",
+         "4",
+         "6",
+         "8",
+         "10",
+         "12",
+         "14",
+         "16"
+      ]
+   },
+   {
+      "id": "0de16cd1-a01b-4687-a640-08002681bb70",
+      "imagen": "./img/prendas/nino/pantalonDrill.png",
+      "nombre": "Pantalon Drill",
+      "precio": 70,
+      "categoria": "Niño",
+      "descuento": 0,
+      "tallas": [
+         "2",
+         "4",
+         "6",
+         "8",
+         "10",
+         "12",
+         "14",
+         "16"
+      ]
+   },
+   {
+      "id": "f09ae226-47f5-4528-b539-627b44bd98f9",
+      "imagen": "./img/prendas/nino/poloCamiseroBlanco.png",
+      "nombre": "Polo Camisero-Blanco",
+      "precio": 30,
+      "categoria": "Niño",
+      "descuento": 0,
+      "tallas": [
+         "2",
+         "4",
+         "6",
+         "8",
+         "10",
+         "12",
+         "14",
+         "16"
+      ]
+   }
+]
